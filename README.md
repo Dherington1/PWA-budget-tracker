@@ -4,7 +4,7 @@
   ![mit](https://img.shields.io/badge/license-MIT%20License-red)
       
   ## Description
-  This application allows the user to track their spends with or without internet 
+  This application allows the user to track their spendings with or without internet
 
   ## Usage Instructions
   input your income or spendings
